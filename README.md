@@ -16,6 +16,6 @@ Installation instructions
   
  __Version 1.0__ 
   - ASG-RP Launcher 
-   > __Play ASG__ will launch fivem and directly connect 
-   > __CAD/MDT__ will launch your default browser into ASG's CAD website
-   > __View website__ will launch the website/forum 
+   - __Play ASG__ will launch fivem and directly connect 
+   - __CAD/MDT__ will launch your default browser into ASG's CAD website
+   - __View website__ will launch the website/forum 
