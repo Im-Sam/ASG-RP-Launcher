@@ -8,13 +8,13 @@ Installation instructions
  - When you run the file windows will prompt you, click __more info__ and then __run anyway__.
  
  # Update Changelog
- - Version 1.1
+ __Version 1.1__
   - Changed button ui, now looks more modern
   - Removed progress bars, cleaner ui
   - Properly centered the buttons on the bottom
   - Added minimum size to prevent ui overlap
   
- - Version 1.0 
+ __Version 1.0__ 
   - ASG-RP Launcher 
    > __Play ASG__ will launch fivem and directly connect 
    > __CAD/MDT__ will launch your default browser into ASG's CAD website
