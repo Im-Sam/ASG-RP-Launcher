@@ -1,11 +1,11 @@
 # ASG-RP-Launcher
 
 Installation instructions
- - Click Download, then download the zip.
+ - Click __Download__, then download the zip.
  
- - Drag and drop the file `ASG-RP Launcher` onto desktop.
+ - Drag and drop the file ASG-RP Launcher onto desktop.
  
- - When you run the file windows will prompt you, click `more info` and then `run anyway`.
+ - When you run the file windows will prompt you, click __more info__ and then __run anyway__.
  
  # Update Changelog
  - Version 1.1
@@ -16,6 +16,6 @@ Installation instructions
   
  - Version 1.0 
   - ASG-RP Launcher 
-   > `Play ASG` will launch fivem and directly connect 
-   > `CAD/MDT` will launch your default browser into ASG's CAD website
-   > `View website` will launch the website/forum 
+   > __Play ASG__ will launch fivem and directly connect 
+   > __CAD/MDT__ will launch your default browser into ASG's CAD website
+   > __View website__ will launch the website/forum 
