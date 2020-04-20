@@ -17,5 +17,5 @@ Installation instructions
   
  __Version 1.0__ 
    - __Play FLG-RP__ will launch fivem and directly connect 
-   - __CAD/MDT__ will launch your default browser into ASG's CAD website
+   - __CAD/MDT__ will launch your default browser into FLG's CAD website
    - __View website__ will launch the website/forum 
