@@ -3,7 +3,7 @@
 Installation instructions
  - Click __Download__, then download the zip.
  
- - Drag and drop the file ASG-RP Launcher onto desktop.
+ - Drag and drop the file FLG-RP Launcher onto desktop.
  
  - When you run the file windows will prompt you, click __more info__ and then __run anyway__.
  
