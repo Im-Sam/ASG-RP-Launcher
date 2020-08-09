@@ -1,3 +1,7 @@
+# Deprecated
+
+
+
 # FLG-RP-Launcher
 
 Installation instructions
